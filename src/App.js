@@ -25,7 +25,7 @@ const customers = [
         'name': '신성민',
         'birthday': '821231',
         'gender': '남자',
-        'job': '회사원원'
+        'job': '회사원'
    }
 ]
 
